@@ -1,0 +1,29 @@
+{
+  "name": "cafewebcode/webrouter",
+  "description": "A great component to streamline your development, create routes easily with webrouter",
+  "keywords": [
+    "Cafewebcode",
+    "Cafe Web",
+    "Router",
+    "Route",
+    "Routes",
+    "Web Router"
+  ],
+  "homepage": "agenciacafeweb.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cleber F. Matos",
+      "email": "contato@agenciacafeweb.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cafewebcode\\Webrouter\\": "src"
+    }
+  }
+}
