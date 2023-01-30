@@ -15,4 +15,9 @@ class Webrouter extends Dispatch
     {
         parent::__construct($urlProject, $separator);
     }
+
+    public function get(string $route, string $handler): void
+    {
+        $this->addRoute("GET", $route, $handler);
+    }
 }
