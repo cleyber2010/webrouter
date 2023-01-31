@@ -1,4 +1,4 @@
-# Router @CafeWebCode
+# WebRouter @CafeWebCode
 
 ###### Small and simple component to help you with the implementation of scales.
 
