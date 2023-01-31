@@ -20,4 +20,14 @@ class Webrouter extends Dispatch
     {
         $this->addRoute("GET", $route, $handler);
     }
+
+    public function post(string $route, string $handler): void
+    {
+        $this->addRoute("POST", $route, $handler);
+    }
+
+    public function delete(string $route, string $handler): void
+    {
+        $this->addRoute("DELETE", $route, $handler);
+    }
 }
