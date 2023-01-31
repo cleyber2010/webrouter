@@ -71,7 +71,7 @@ class Name
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/cleyber2010/webrouter/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/cleyber2010/webrouter/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
